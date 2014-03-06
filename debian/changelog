@@ -1,3 +1,9 @@
+libcap2 (1:2.22-1.2blankon2) tambora; urgency=low
+
+  * Rebuild #1411
+
+ -- Rahman Yusri Aftian <aftian@di.blankon.in>  Thu, 06 Mar 2014 19:17:52 +0700
+
 libcap2 (1:2.22-1.2blankon1) rote; urgency=low
 
   * Rebuild for error repo 
